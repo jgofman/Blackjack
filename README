@@ -1,0 +1,12 @@
+Hi all!
+
+This is my blackjack project, which is, as most projects are, a work in progress. The game rules are fairly simple.  I am currently working on adding a split and a double down function in order to make the game more realistic.  In addition to adding those, I am always looking for ways to modify my code in order to make it more efficient or to make my UI better.
+
+The detailed explanation of the rules of the game can be found here: http://www.blackjackinfo.com/blackjack-rules.php
+
+
+In order to make this game work, you need to have the image files in a folder called "CardImages", which needs to be located in the root of the project directory. If you have any questions, feel free to contact me at jacobgofman@nyu.edu.
+
+Thanks for checking it out!
+~Jacob
+
